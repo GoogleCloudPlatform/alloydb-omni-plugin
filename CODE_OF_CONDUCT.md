@@ -69,7 +69,7 @@ dispute. If you are unable to resolve the matter for any reason, or if the
 behavior is threatening or harassing, report it. We are dedicated to providing
 an environment where participants feel welcome and safe.
 
-Reports should be directed to @gemini-cli-extensions/alloydb-omni-maintainers, the
+Reports should be directed to @GoogleCloudPlatform/alloydb-omni-plugin-maintainers, the
 Project Steward(s) for *AlloyDB Omni Gemini Extension*. It is the Project Steward’s duty to
 receive and address reported violations of the code of conduct. They will then
 work with a committee consisting of representatives from the Open Source

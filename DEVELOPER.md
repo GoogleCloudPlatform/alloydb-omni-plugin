@@ -61,8 +61,8 @@ A skills validation workflow (`.github/workflows/skills-validate.yml`) also runs
 
 The primary maintainers for this repository are defined in the [`.github/CODEOWNERS`](.github/CODEOWNERS) file:
 
-* `@gemini-cli-extensions/alloydb-omni-admin`
-* `@gemini-cli-extensions/alloydb-omni-maintainers`
+* `@GoogleCloudPlatform/senseai-eco`
+* `@GoogleCloudPlatform/alloydb-omni-plugin-maintainers`
 
 ### Releasing
 
