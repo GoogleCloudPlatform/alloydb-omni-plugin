@@ -20,7 +20,7 @@ The development process involves installing the extension locally into the Gemin
 1.  **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/gemini-cli-extensions/alloydb-omni.git
+    git clone https://github.com/GoogleCloudPlatform/alloydb-omni-plugin.git
     cd alloydb-omni
     ```
 
