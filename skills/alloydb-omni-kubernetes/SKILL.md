@@ -115,7 +115,7 @@ backup, you need to specify the new DBCluster name under
 To deploy a PgBouncer connection pool / proxy fronting the DBCluster, create a
 `pgbouncer` (fullname: `pgbouncers.alloydbomni.dbadmin.goog`) resource.
 
-## Inspectin resources
+## Inspecting resources
 
 When monitoring or verifying the state of a resource, use `kubectl describe
 <resource_type> <resource_name>` in addition to `kubectl get`. The `describe`
